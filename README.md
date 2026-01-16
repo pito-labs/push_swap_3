@@ -1,5 +1,5 @@
 # push_swap_3
-アルゴリズム:LIS データ構造: 循環連結リスト
+アルゴリズム:LIS データ構造: 双方向連結リスト
 
 ## データ構造: 
 双方向循環連結リスト (Doubly Circular Linked List)
